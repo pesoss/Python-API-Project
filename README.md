@@ -9,9 +9,6 @@ in the terminal -> GITHUB_TOKEN and FRESHDESK_TOKEN. These values are API keys.
 To run the program (main.py), you must enter the following command in the terminal:
 >     python3 main.py first_argument second_argument
 where first_argument is the correct GitHub username, second_argument is the correct Freshdesk subdomain.
-> For example:
-> 
->     python3 main.py apitestquickbase quickbase-help
 
 ## Unit Tests
 To run the unit tests (TestAPIs.py), you must run the following command:
